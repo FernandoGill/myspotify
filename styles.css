@@ -55,7 +55,7 @@ html {
         outline: none;
     }
 
-    header .search input:nth-child(2) {
+    header .search button {
         color: white;
         background-color: rgba(254, 254, 255, 0.303);
         border: none;
